@@ -29,13 +29,3 @@ catch
 {
     Console.WriteLine("You have entered incorrect data, please restart the application and enter a natural number");
 }
-
-
-
-//Для экспериментов
-// long numberArray = 0;
-// for (long count = 0; numberArray == number; count++)
-// {
-//     numberArray = numberArray + 1;
-//     Console.WriteLine(numberArray);
-// }
